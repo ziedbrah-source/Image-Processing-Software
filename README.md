@@ -1,4 +1,4 @@
-# Image processing tool
+# Image processing software
  <ol>
     <li>
       <a href="#about-the-repo">About The repo</a>
@@ -32,3 +32,10 @@ python window.py
 [![histogram.png](https://i.postimg.cc/9FPsL5Df/histogram.png)](https://postimg.cc/F7RPK6gt)
 #### Pepper and Salt noise
 [![salt-And-Pepper.png](https://i.postimg.cc/nhRRWHpn/salt-And-Pepper.png)](https://postimg.cc/jDf4wYD1)
+#### Segmentation part 
+##### Before OTSU algorithm
+[![Before-OTSU.png](https://i.postimg.cc/LXbm6dtS/Before-OTSU.png)](https://postimg.cc/7G0FmWtt)
+##### After OTSU algorithm 
+[![After-OTSU.png](https://i.postimg.cc/664hWrwJ/After-OTSU.png)](https://postimg.cc/s1yWKZvw)
+
+ ### And other features that you may like to explore :) 
