@@ -12,7 +12,7 @@
   </ol>
 
   ## About the repo
-This mini-project is an image processing tool that applies basic operations (filters, equalization binarization,..) on PGM images (ASCII format).
+This is a project for an image processing course at INSAT. The project involves the development of an image processing tool that uses various algorithms and techniques to manipulate digital images. The tool includes features such as filtering, enhancement, segmentation, and compression, and has practical applications in fields such as medical imaging, computer vision, and photography. This repository contains the source code for the tool, as well as documentation and examples of its use.
 
   ## Technologies
   * Python 3
@@ -27,8 +27,8 @@ python window.py
  ### Screenshots
 
 #### Original image
-![image](https://user-images.githubusercontent.com/53778545/171065209-d3048855-1a1d-425c-8246-193396bc2980.png)
+[![original-Image.png](https://i.postimg.cc/hvmRDX48/original-Image.png)](https://postimg.cc/GTb5zhy9)
 #### Histogram
-![image](https://user-images.githubusercontent.com/53778545/171065314-038be1ab-5e0a-42cc-8b21-ccf7ca997434.png)
+[![histogram.png](https://i.postimg.cc/9FPsL5Df/histogram.png)](https://postimg.cc/F7RPK6gt)
 #### Pepper and Salt noise
-![image](https://user-images.githubusercontent.com/53778545/171065333-5d061469-ffdf-4af1-8826-bd0b97d9fb24.png)
+[![salt-And-Pepper.png](https://i.postimg.cc/nhRRWHpn/salt-And-Pepper.png)](https://postimg.cc/jDf4wYD1)
